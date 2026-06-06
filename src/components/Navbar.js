@@ -54,7 +54,7 @@ const styles = {
     position: 'fixed',
     top: 0,
     right: 0,
-    width: '65%',
+    width: '30%',
     height: '100vh',
     background: '#2d1b69',
     display: 'flex',
